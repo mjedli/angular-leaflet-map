@@ -11,7 +11,7 @@ export class AppComponent {
 
   constructor() {}
 
-  welcomeMessage = "Hello Angular ! Please choose the place !";
+  welcomeMessage = "Hello! Please choose the place !";
   currentDate = new Date();
   copyright = " Copyright " + this.currentDate.getFullYear().toString();
 
