@@ -19,7 +19,6 @@ export class AppComponent {
 
   markerIconOne = new L.LayerGroup();
   thePlaceMarker = new L.LayerGroup();
-
   theHomeMarker = new L.LayerGroup();
 
   x: string = "48.8725";
