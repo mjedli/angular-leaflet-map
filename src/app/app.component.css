@@ -1,0 +1,61 @@
+p {
+  font-family: Lato;
+}
+
+.map {
+  width: 100%;
+  height: 500px;
+  border-radius: 10px;
+}
+
+.leBox {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  background-color: darkseagreen;
+  color: white;
+  vertical-align: middle;
+}
+
+.leBox2 {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 20px;
+  background-color: darkseagreen;
+  color: white;
+  vertical-align: middle;
+}
+
+.leBoxButton {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: darkseagreen;
+  color: white;
+}
+
+.content {
+  display: flex;
+  margin: 25px auto;
+  padding: 0 16px;
+  max-width: 80%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welecomtext {
+  font-size: 150%;
+  color: cadetblue;
+  margin-bottom: 8px;
+}
+
+.titleApp {
+  font-weight: 500;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: rgb(26, 44, 44);
+}
