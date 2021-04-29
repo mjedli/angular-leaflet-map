@@ -1,3 +1,3 @@
 # angular-leaflet-map
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xopyxm)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-api-map)
